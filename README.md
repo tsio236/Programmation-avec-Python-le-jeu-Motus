@@ -4,6 +4,8 @@ Dans le cadre du module "*Suite de l'apprentissage de la programmation (Python)*
 
 Notre responsable est Monsieur **Jean-Claude GEORGES**, et notre binôme est composé de Mademoiselle **Andrianihary RAZAFINDRAMISA** et de Mademoiselle **Yovana DENTIKA**.
 
+<br>
+
 As part of the module "*Suite de l'apprentissage de la programmation (Python)*" (**19_E3_IGI_3008_P2**), under the direction of **GEORGES Jean-Claude**, we had the opportunity to reuse the notions of Python seen in the course to produce a game in two months. The work is carried out in pairs and the objective is to allow the user to play the Letters phase of the Motus game show.
 
 Our pair is made of Miss **RAZAFINDRAMISA Andrianihary** and Miss **DENTIKA Yovana**.
@@ -12,7 +14,7 @@ Our pair is made of Miss **RAZAFINDRAMISA Andrianihary** and Miss **DENTIKA Yova
 
 ___
 
-# Table des matières
+# Table des matières / Table of Contents
 
 [[_TOC_]]
 ___
@@ -59,6 +61,7 @@ A chaque fin de partie, le nombre de coups effectués avant d’avoir trouvé le
 
 Le mot proposé ou à trouver se trouvera obligatoirement dans le dictionnaire français 2019.
 
+<br>
 
 # English version
 
